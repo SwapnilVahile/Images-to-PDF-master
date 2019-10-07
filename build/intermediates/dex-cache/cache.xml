@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\7ffd8de29747d27b705c59823f1f12364fe593a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_f4c537720c2d3d4faf1a1bb76738ab8c5f6e342f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\85503aab92172862c83c1872db052d124ad79c8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_61b5996da42ddc550a9c79821cc7bfbbc4259bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\com.itextpdf\itextg\5.5.9\3580383b2c7db8fa2fee1ffbe1993017a9ea296e\itextg-5.5.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3580383b2c7db8fa2fee1ffbe1993017a9ea296e">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\itextg-5.5.9_ea790ef31c6adcf9821cae12399a10537e3bff92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\ba5614c76ddcc55a44de04713b46b1f26bd88328\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="733494514a30e5e5c60da15444b7d720590679c4">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_767ef3e51d3ac4b31325f600d9f640b20ccc06b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\9ac2d0ee580fac6fc0b2b7f271ecf7a34a329d48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_8877d0b0591424b9d15497129517a59d81e63ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\11da84a5688e5196b59e9849cdd50ed454fda164\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1d8ad0befc6e3e3bb2e32c3b1595ad4bfa26987">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_019b3ff740e292c7c6f5f10a4b3eb3cd431305cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\42d20ccd0466caa67145a6f7a9752a2da66e1011\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_6255a53ef4da4a481c6b7e0f58a1ef44383cfced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\13471178fa722219c771b6a9c20728e33d5005e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_380297fc13895c5d872c6cebfa864b19ba2f0d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\9318762b7c75b034278dd7c6bdc8f3aa0e59b4b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a10332e561dbad9fd003560979e6202383d0d2c">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_737afdb6a86582fb6ac2eb721c8b5d08b5a9e5aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\70af20c5f70061aff3d747f4ca1b7ab4dec3504b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c743a2fd48eaf8ea5eac0bdfa23c654ca4d0fd74">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_502f897cf2e514d74bd2120f5fb700697b770439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\a17947c1e515dd47055f08310975c6ebcc4a7e69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5244bf01f33c8b895d65f09d14f56a9a559f8c9d">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_af574179fd59ce7951752789771aac628db5a9ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\b608d46dad810df149ad605bc75334ba70647f22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_c34f16d75b4b21fd753029a88c03dc71095fcc01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\ddf64d591e9c22e0505c77dd03511cc44db1a53b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_ddc6fe794c6a838e7e71f40d3e028db26510526b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_377235b93806587ef7ce8be80d1ef6ccb7560726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_ec627f26043e524c56dda0247329c37cb61113e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_0638bf3cb75131eba3c67446e6d3f5513e257e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\2f27d8b24c49e93f78360b973646aeed44c9bab9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_fe890c955b1d1c890b8420b46cb98060104de56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\cc902735717bcc78026c9d4ff3bfbd395a4897f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_67e5541f9b1e5e6e3aea5762faccc98eca124f48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\2cc5493ed3e3373546d62e4145043b7bd3166e74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_89983142857b3bc8733a5af69a947834ba1cd3c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\cfc99e2f11b55e05e4c6c02e8185c744e4281780\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_b8cde01f49e054206986121af9962a1b6622f903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\glide-3.6.1_f06057c9b9b2038950d7e533a5009b99a18f59bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_9d63917aefaef96b04abf6ad654869f7522a6b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\a21feadfa3026efbf740e8bc1f91ec8a133c4f86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_a466c7d20ad07f4ef8fab9600cabeb607243c9f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_18cf313145eab1f433aee2747c7bbfd793f343c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\a0577790c3f7d259ad3e8cef3c50989c0eec03ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_454a3a668d6899721ae768333068e0a7e9b74273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\d7c2f8aec6ab91112ba1894524426f9f8ac22753\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="828f50e8aff9f21c75e61a319c38993efc0590ca">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_71d87f859c8a6303269e7c20919014344c0fa4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\8aef0252dfe1d4c79f51cb6be9ecb3bcd2d35313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_2e33eaeb965577792ccd3792aec193f86fc33d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\junit-4.12_60c988338648f44a297eb1f771a3d2bfeab7ec39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\92c7a77dcbb5e91f0a4679ba8756d5f7d95e14db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_20836e7bbe981c60182aa9468ea3232e74680d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\c77a48212bb4725108224004e54cc9f9a4e06a2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_6bcacda9a45fdf6008cb443367151aa4d3011cdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SWAPNIL\.android\build-cache\257ee8fe9ba19fa30c6ad4958b3f5543db945adf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="F:\ProjectTata\Images-to-PDF\Images-to-PDF-master\app\build\intermediates\pre-dexed\debug\classes_45035049ec0c390e0f960d5cb332acb5dfea4809.jar" />
+    </item>
+
+</items>
